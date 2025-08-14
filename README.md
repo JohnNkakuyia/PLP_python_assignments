@@ -47,7 +47,7 @@ my_list.reverse()
 index_30 = my_list.index(30)
 print(index_30)  # Output: 3
 
-```python
+```
 # Week 3 Assignment
 
 ## Description
@@ -74,5 +74,4 @@ The discount is only applied if the discount percentage is **20% or higher**; ot
 3. Input the **discount percentage**.
 4. View the final price after applying the discount rule.
 
----
 
