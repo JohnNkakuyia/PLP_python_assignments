@@ -46,3 +46,33 @@ my_list.reverse()
 # Finding index of value 30
 index_30 = my_list.index(30)
 print(index_30)  # Output: 3
+
+# Week 3 Assignment
+
+## Description
+This Python program calculates the final price of an item after applying a discount.  
+The discount is only applied if the discount percentage is **20% or higher**; otherwise, the original price is returned without any change.
+
+---
+
+## Features
+- Function `calculate_discount(price, discount_percent)`:
+  - Accepts the original price and discount percentage as parameters.
+  - Checks if the discount is **≥ 20%**.
+  - If yes, applies the discount and returns the final price.
+  - If not, returns the original price unchanged.
+- Prompts the user to:
+  - Enter the original price of the item.
+  - Enter the discount percentage.
+- Displays the final price based on the discount condition.
+
+---
+
+## Usage
+1. Run the program in a Python environment (e.g., VS Code, PyCharm, Jupyter Notebook, or terminal).
+2. Input the **original price** when prompted.
+3. Input the **discount percentage**.
+4. View the final price after applying the discount rule.
+
+---
+
