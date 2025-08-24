@@ -1,4 +1,4 @@
-# Assignment_Week2
+# Assignment_Week_2_ 📃 List in python 
 
 ## 📘 Week Two Assignment Description
 
@@ -48,7 +48,7 @@ index_30 = my_list.index(30)
 print(index_30)  # Output: 3
 
 ```
-# Week 3 Assignment
+# Week_3_Assignment 📱Price and Discount calculator 
 
 ## Description
 This Python program calculates the final price of an item after applying a discount.  
@@ -68,10 +68,34 @@ The discount is only applied if the discount percentage is **20% or higher**; ot
 - Displays the final price based on the discount condition.
 
 
-## Usage
-1. Run the program in a Python environment (e.g., VS Code, PyCharm, Jupyter Notebook, or terminal).
-2. Input the **original price** when prompted.
-3. Input the **discount percentage**.
-4. View the final price after applying the discount rule.
+# Week_4_ Assignment 📂 File Handling & Error Handling in Python  
+
+## 📝 Project Overview  
+This project demonstrates **file operations** and **exception handling** in Python.  
+It covers:  
+- Reading from and writing to text files.  
+- Modifying content (uppercase conversion).  
+- Handling errors such as missing files or permission issues.  
+- Writing results into a new file.  
+
+---
+
+## 🚀 Features  
+1. **File Read & Write Challenge 🖋️**  
+   - Reads from `input.txt`.  
+   - Converts text to **UPPERCASE**.  
+   - Saves results into `output.txt`.  
+   - Prints a success message ✅.  
+
+2. **Error Handling Lab 🧪**  
+   - Asks the user for a filename.  
+   - Handles errors if the file:  
+     - ❌ Doesn’t exist (`FileNotFoundError`).  
+     - ⚠️ Can’t be accessed due to permissions (`PermissionError`).  
+   - Reads and prints content if successful.  
+
+---
+
+
 
 
