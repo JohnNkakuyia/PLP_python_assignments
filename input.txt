@@ -1,0 +1,5 @@
+in this code we are dealing with file operations.
+this operation allow us to read and write on the file.
+we have several types of files which includes; text, excel, pdf.
+we have 'r' for reading 'w' for writing and 'a' for appending.
+after open a file for best practice we close the file to release system resources
